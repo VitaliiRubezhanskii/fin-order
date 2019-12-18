@@ -1,0 +1,8 @@
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/configuration/ChangeStreamConfiguration.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/service/Impl/OrderServiceImpl.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/TradingApplication.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/domain/OrderItem.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/repository/OrderRepository.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/service/OrderService.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/domain/Order.java
+/home/user/Documents/03. Education/financial-stock-broker-2/core/order-service/src/main/java/com/investment/trading/controller/OrderController.java
